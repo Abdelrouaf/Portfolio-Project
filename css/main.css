@@ -1621,6 +1621,10 @@ img {
         font-size: 16px;
     }
 
+    .portfolio-sec .container .projects .project img {
+        height: 300px;
+    }
+
     .home .container p,
     .about-sec .container-2 .img-title .col,
     .services-sec .container-2 .box .col,
