@@ -1597,7 +1597,9 @@ img {
     }
 
     .home .container .btns a {
-        padding: 12px;
+        margin-bottom: 25px;
+        display: block;
+        width: fit-content;
     }
 
     .about-sec .container-2 .img-title .col,
@@ -1619,6 +1621,7 @@ img {
         font-size: 16px;
     }
 
+    .home .container p,
     .about-sec .container-2 .img-title .col,
     .services-sec .container-2 .box .col,
     .portfolio-sec .container .students-review .col,
